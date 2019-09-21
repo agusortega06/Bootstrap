@@ -1,0 +1,25 @@
+.container{
+	color: black;
+	font-family: verdana;
+}
+header{
+	background: #101e33;}
+	
+	h1{color:white;}
+
+	aside{background: orange;}
+
+
+	footer{background:#182e23;}
+	h3{color: white;}
+
+	@media (max-width: 576px){
+		.row{
+			background: lime;
+			height: 300px;
+		}
+		.col-xs-12 {
+			background: red;
+
+		}
+	}

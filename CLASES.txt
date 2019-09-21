@@ -1,0 +1,10 @@
+BOOTSTRAP CLASES:
+Grid
+Tipografias
+Tablas
+Formularios
+Botones
+Imagenes
+Clases auxiliares/ helper class
+Responsive utilities / Herramientas responsivas
+Iconos / Glyphicons
